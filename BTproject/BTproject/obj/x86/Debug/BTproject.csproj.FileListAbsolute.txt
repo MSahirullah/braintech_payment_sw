@@ -1,0 +1,34 @@
+G:\bt\BTproject\BTproject\bin\Debug\BTproject.exe
+G:\bt\BTproject\BTproject\bin\Debug\BTproject.pdb
+G:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.Form1.resources
+G:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.Properties.Resources.resources
+G:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.csproj.GenerateResource.Cache
+G:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.exe
+G:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.pdb
+G:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.MainMenu.resources
+G:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.PaymentDeails.resources
+G:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.Payment.resources
+C:\Users\PC SOFT\Desktop\bt\BTproject\BTproject\obj\x86\Debug\BTproject.exe
+C:\Users\PC SOFT\Desktop\bt\BTproject\BTproject\obj\x86\Debug\BTproject.pdb
+H:\bt\BTproject\BTproject\bin\Debug\BTproject.exe.config
+H:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.exe
+H:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.pdb
+H:\bt\BTproject\BTproject\bin\Debug\BT.mdf
+H:\bt\BTproject\BTproject\bin\Debug\BT_log.ldf
+H:\bt\BTproject\BTproject\bin\Debug\BTproject.exe
+H:\bt\BTproject\BTproject\bin\Debug\BTproject.pdb
+H:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.Form1.resources
+H:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.lecturerdetails.resources
+H:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.MainMenu.resources
+H:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.newlecturer.resources
+H:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.PaymentDeails.resources
+H:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.Payment.resources
+H:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.Properties.Resources.resources
+H:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.csproj.GenerateResource.Cache
+G:\bt\BTproject\BTproject\bin\Debug\BTproject.exe.config
+G:\bt\BTproject\BTproject\bin\Debug\BT.mdf
+G:\bt\BTproject\BTproject\bin\Debug\BT_log.ldf
+G:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.lecturerdetails.resources
+G:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.newlecturer.resources
+G:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.Delete.resources
+H:\bt\BTproject\BTproject\obj\x86\Debug\BTproject.Delete.resources
